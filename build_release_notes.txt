@@ -3,3 +3,4 @@ release note v1.1
 release note v1.2
 release note v1.3
 release note v1.4
+release note v1.4.1 - hotfix
